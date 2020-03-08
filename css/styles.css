@@ -10,14 +10,14 @@ body {
 h1{
     margin: 0;
     font-family: 'Sacramento', cursive;
-    font-size: 5.54rem;
+    font-size: 5.0rem;
     color: #00ced1;
 }
 
 h2{
     font-family: 'Montserrat', sans-serif;
     margin: 50px 0 auto 0;
-    font-size: 2.5rem;
+    font-size: 2.0rem;
     color: #00ced1;
     font-weight: normal;
 }
@@ -82,15 +82,21 @@ a:hover{
     left: 200px;
     margin-top: 10px;
 }
+.mountan{
+    width: 50%;
+    position: relative;
+    right: 100px;
+}
 
 .home{
     position: relative;
-    margin: 4px 50%;
+    margin: 2px 30%;
 }
 
 
 .bottom-cloud{
-    position: absolute;
+    position: relative;
+    margin: 10PX 150px 150px auto;
 }
 
 .top-container {
